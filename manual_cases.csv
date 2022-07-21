@@ -1,8 +1,8 @@
 ﻿sep=,
 "ID","Title","Created By","Created On","Forecast","Priority","Section","Section Depth","Section Description","Suite","Suite ID","Type","Updated By","Updated On"
-"C5","Регистрация аккаунта в партнерской системе","Marina Bazlova","11/12/2020 11:06 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Functional","Marina Bazlova","10/18/2021 12:52 PM"
-"C2","Подтверждение регистрации аккаунта - С2M","Marina Bazlova","11/9/2020 4:28 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Functional","Darya Spirina","12/20/2021 6:43 PM"
-"C5024","Подтверждение регистрации аккаунта","Marina Bazlova","10/18/2021 12:53 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Smoke","Marina Bazlova","12/13/2021 10:43 AM"
+"C5","Регистрация аккаунта в партнерской системе","Marina Bazlova","11/12/2020 11:06 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Functional","10/18/2021 12:52 PM"
+"C2","Подтверждение регистрации аккаунта - С2M","11/9/2020 4:28 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Functional","Darya Spirina","12/20/2021 6:43 PM"
+"C5024","Подтверждение регистрации аккаунта","10/18/2021 12:53 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Smoke","Marina Bazlova","12/13/2021 10:43 AM"
 "C4524","Активация подтвержденного аккаунта администратором","Marina Bazlova","8/24/2021 12:13 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Functional","Darya Spirina","12/20/2021 6:43 PM"
 "C389","Регистрация аккаунта на зарегистрированный e-mail","Marina Bazlova","12/30/2020 8:50 PM","","Critical","Регистрация","3","","Affiliate Network","S1","Security","Marina Bazlova","10/18/2021 1:03 PM"
 "C5023","Форма авторизации","Marina Bazlova","10/18/2021 12:29 PM","","Critical","Авторизация","3","","Affiliate Network","S1","Sanity","Marina Bazlova","10/21/2021 12:04 PM"
